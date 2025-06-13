@@ -19,7 +19,7 @@ I'm a web developer and administrator with a passion for building user-friendly,
 ---
 
 ### 🌱 What's Next
-I plan to contribute to open source projects that align with accessibility, digital inclusion, and public service. Stay tuned!
+I plan to contribute to open source projects that I use frequently, such as Home Assistant (integrations and custom components, as well as addons) and Frigate NVR, among many others. Stay tuned!
 
 ---
 
